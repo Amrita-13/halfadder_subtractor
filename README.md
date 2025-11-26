@@ -50,7 +50,7 @@ Figure -02 HALF Subtractor
 
 **Program:**
 ```
-falf adder:
+half adder:
 module half_adder (
     input  wire a, b, 
     output wire sum,
